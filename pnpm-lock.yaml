@@ -18,8 +18,8 @@ importers:
         specifier: ^3.7.8
         version: 3.7.8
       vite:
-        specifier: ^6.3.2
-        version: 6.3.3
+        specifier: ^6.3.4
+        version: 6.3.4
 
 packages:
 
@@ -350,8 +350,8 @@ packages:
   url-polyfill@1.1.13:
     resolution: {integrity: sha512-tXzkojrv2SujumYthZ/WjF7jaSfNhSXlYMpE5AYdL2I3D7DCeo+mch8KtW2rUuKjDg+3VXODXHVgipt8yGY/eQ==}
 
-  vite@6.3.3:
-    resolution: {integrity: sha512-5nXH+QsELbFKhsEfWLkHrvgRpTdGJzqOZ+utSdmPTvwHmvU6ITTm3xx+mRusihkcI8GeC7lCDyn3kDtiki9scw==}
+  vite@6.3.4:
+    resolution: {integrity: sha512-BiReIiMS2fyFqbqNT/Qqt4CVITDU9M9vE+DKcVAsB+ZV0wvTKd+3hMbkpxz1b+NmEDMegpVbisKiAZOnvO92Sw==}
     engines: {node: ^18.0.0 || ^20.0.0 || >=22.0.0}
     hasBin: true
     peerDependencies:
@@ -636,7 +636,7 @@ snapshots:
 
   url-polyfill@1.1.13: {}
 
-  vite@6.3.3:
+  vite@6.3.4:
     dependencies:
       esbuild: 0.25.3
       fdir: 6.4.4(picomatch@4.0.2)
